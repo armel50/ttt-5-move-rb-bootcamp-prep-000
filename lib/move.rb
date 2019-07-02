@@ -7,12 +7,12 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-
+index = 0
 def input_to_index(input)
 
   calcul =input.to_i - 1
   
-  
+  index = calcul
   
 end
 
