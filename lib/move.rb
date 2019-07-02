@@ -10,7 +10,10 @@ end
 
 def input_to_index(input)
 
-
+  calcul =input.to_i - 1
+  
+  
+  
 end
 
 
